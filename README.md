@@ -1,6 +1,6 @@
 # Hi there, I'm Leo Pham 👋
 
-<a href="https://linkedin.com/in/your-linkedin-profile-url" target="_blank">
+<a href="https://www.linkedin.com/in/leophamn/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:leo.ngoc.pham@gmail.com">
