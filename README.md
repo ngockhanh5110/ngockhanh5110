@@ -44,7 +44,7 @@ Senior Machine Learning Engineer @ [Sapia.ai](https://sapia.ai/) based in Melbou
 
 ## ✨ Featured Projects & Achievements
 
-*   **Real-Time AI Content Detection System:** Built a system using TensorRT-LLM & NVIDIA Triton, achieving <200ms inference. Presented at [NVIDIA GTC 2024 (P61688)](link-to-presentation-abstract-if-available).
+*   **Real-Time AI Content Detection System:** Built a system using TensorRT-LLM & NVIDIA Triton, achieving <200ms inference. Presented at [NVIDIA GTC 2024 (P61688)](https://static.rainfocus.com/nvidia/gtcs24/sess/1694168734802001mKDG/Poster/CANLLML_2_P61688_Demi%20Dai_Buddhi%20Jayatilleke_Leo%20Pham-web_1710786778787001C78d.pdf).
 *   **Phai Chatbot Career Coach POC:** Developed an LLM-powered chatbot with React Remix front-end and FastAPI back-end for personalized career guidance.
 *   **Generative AI for Interviews (InterviewGPT & SAIGE):** Implemented and enhanced generative models on AWS Sagemaker, improving evaluation accuracy and fairness in AI-driven interviews.
 *   **Scalable Data Infrastructure:** Transformed data processing by scaling a feature database ( billions records) using AWS Glue, Iceberg, and S3, streamlining model training.
